@@ -1,0 +1,40 @@
+body { 
+    background-image: url('img/Tapéta.jpg');
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Dancing Script", cursive;
+}
+
+h5 {
+    padding-bottom: 13px;
+    padding-left: 130px;
+    font-family: "Dancing Script", cursive;
+}
+
+.addTaskButton {
+    background-image: url('img/beautiful-colorful-rose-flower-frame-looking-like-a-tunnel-of-flowers-with-cut-out-isolated-on-transparent-background-png.webp');
+    color: white;
+    margin-top: 17px;
+    margin-left: 740px;
+    border-radius: 7px;
+
+}
+
+.task-input {
+    background-color: maroon;
+    opacity: 90%;
+    
+}
+
+.table {
+    margin-top: 12px;
+    text-align: center;
+    border: 2px solid maroon;
+}
+
+th {
+    border: 1px solid maroon;
+}
