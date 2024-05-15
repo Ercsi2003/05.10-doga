@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <td style="border: 1px solid maroon">Ongoing</td>
             <td>
                 <button class="btn" style="background-color: rgb(236, 72, 72); color: white; height:40px; border: 2px solid maroon;" onclick="CompleteTask(${array.indexOf(task)})">Complete</button>
-                <button class="btn" style="background-color: maroon; color: white; height:40px; border: 2px solid maroon;" onclick="RemoveTask(${array.indexOf(task)})">Remove</button>
+                
             </td>
         </tr>
     `
